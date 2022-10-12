@@ -15,7 +15,7 @@ function App() {
   });
 
   return(
-    <div>
+    <div className='screen'>
       <Navbar />
       <Hero />
       <section className="cards-list">
